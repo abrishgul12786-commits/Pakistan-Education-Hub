@@ -1,0 +1,6 @@
+{
+  "name": "Pakistan Education Hub",
+  "description": "The premier portal for Pakistani students. Explore matric, intermediate, competitive exams, university matchers, GPA calculators, and scholarship resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
