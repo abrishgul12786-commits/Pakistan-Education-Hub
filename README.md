@@ -1,6 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+
 # 🎓 Pakistan Education Hub (Ilm Pakistan)
 
 An all-in-one academic guidance, university finder, and career counseling portal designed specifically for students in Pakistan. From Matriculation (SSC) and Intermediate (HSSC) to HEC-accredited university matchers, BISE board GPA/merit calculators, and free textbook downloads.
